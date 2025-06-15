@@ -22,6 +22,20 @@
       "sites": ["https://open.spotify.com/","https://music.youtube.com/","https://soundcloud.com/","https://www.deezer.com/","https://music.apple.com/","https://tidal.com/","https://music.amazon.com/"]
     }
   ],
+  "recommended": [
+    {
+      "title": "Figma",
+      "url": "https://figma.com"
+    },
+    {
+      "title": "Vercel",
+      "url": "https://vercel.com"
+    },
+    {
+      "title": "Coursera",
+      "url": "https://coursera.org"
+    }
+  ],
   "links": [
     "https://google.com", "https://youtube.com", "https://facebook.com", "https://x.com", "https://instagram.com", "https://amazon.com", "https://netflix.com",
     "https://mercadolivre.com.br", "https://uol.com.br", "https://g1.globo.com", "https://terra.com.br", "https://spotify.com", "https://deezer.com", "https://tiktok.com",
