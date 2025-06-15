@@ -3,10 +3,16 @@
     {
       "author": "@all4ned",
       "name": "Google",
-      "type": "Serviços",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png",
       "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/google.json",
       "sites": ["https://google.com","https://youtube.com","https://mail.google.com","https://drive.google.com","https://calendar.google.com","https://photos.google.com","https://maps.google.com","https://translate.google.com","https://meet.google.com"]
+    },
+    {
+      "author": "@all4ned",
+      "name": "AI Tools",
+      "icon": "https://cdn-icons-png.flaticon.com/512/16921/16921758.png",
+      "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/ai-tools.json",
+      "sites": ["https://chat.openai.com","https://gemini.google.com","https://copilot.microsoft.com","https://claude.ai","https://www.perplexity.ai","https://deepseek.com","https://imagefx.withgoogle.com","https://www.elevenlabs.io","https://www.meta.ai","https://poe.com"]
     }
   ],
   "links": ["https://github.com","https://stackoverflow.com","https://notion.so","https://web.whatsapp.com","https://chat.openai.com","https://x.com","https://duckduckgo.com"]
