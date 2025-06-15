@@ -1,6 +1,7 @@
 [
   {
     "name": "Google",
+    "type": "Produtividade e Utilitários",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png",
     "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/google.json",
     "sites": ["https://google.com","https://youtube.com","https://mail.google.com","https://drive.google.com","https://calendar.google.com","https://photos.google.com","https://maps.google.com","https://translate.google.com","https://meet.google.com"]
