@@ -12,7 +12,7 @@
       "name": "AI Tools",
       "icon": "https://cdn-icons-png.flaticon.com/512/16921/16921758.png",
       "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/ai-tools.json",
-      "sites": ["https://chat.openai.com","https://gemini.google.com","https://copilot.microsoft.com","https://claude.ai","https://www.perplexity.ai","https://deepseek.com","https://imagefx.withgoogle.com","https://www.elevenlabs.io","https://www.meta.ai","https://poe.com"]
+      "sites": ["https://chat.openai.com","https://gemini.google.com","https://copilot.microsoft.com","https://claude.ai","https://www.perplexity.ai","https://deepseek.com","https://www.elevenlabs.io","https://www.meta.ai"]
     }
   ],
   "links": ["https://github.com","https://stackoverflow.com","https://notion.so","https://web.whatsapp.com","https://chat.openai.com","https://x.com","https://duckduckgo.com"]
