@@ -1,6 +1,7 @@
 [
   {
     "name": "Google",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png",
     "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/google.json"
   }
 ]
