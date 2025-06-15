@@ -34,7 +34,7 @@
     },
     {
       "active": true,
-      "favorite": true,
+      "favorite": false,
       "group_id": "c7020c1b-cc81-4822-95f8-3d81881b11c2",
       "height": 500,
       "hotkey": "",
