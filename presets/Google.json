@@ -1,4 +1,6 @@
 {
+  "type": "PeekFrameGroup",
+  "version": 1,
   "group": {
     "collapsed": false,
     "color": "#5218cd",
@@ -14,7 +16,7 @@
       "hotkey": "shift+2",
       "id": "4a0cf3b0-9bef-4dcd-9fc2-af3840fa0201",
       "name": "Youtube",
-      "url": "https://youtube.com",
+      "url": "https://www.youtube.com",
       "width": 400,
       "x": null,
       "y": null
@@ -45,7 +47,5 @@
       "x": null,
       "y": null
     }
-  ],
-  "type": "PeekFrameGroup",
-  "version": 1
+  ]
 }
