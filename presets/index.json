@@ -3,6 +3,6 @@
     "name": "Google",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png",
     "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/google.json",
-    "sites": ["Google Search","YouTube","Gmail","Google Drive","Google Calendar","Google Photos","Google Maps","Google Translate","Google Meet"]
+    "sites": ["https://google.com","https://youtube.com","https://mail.google.com","https://drive.google.com","https://calendar.google.com","https://photos.google.com","https://maps.google.com","https://translate.google.com","https://meet.google.com"]
   }
 ]
