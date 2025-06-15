@@ -1,0 +1,52 @@
+{
+  "group": {
+    "Icon": null,
+    "collapsed": false,
+    "color": "#5218cd",
+    "id": "69e78d4f-db4d-46ca-b6e6-1770662c1019",
+    "name": "Google"
+  },
+  "sites": [
+    {
+      "active": true,
+      "favorite": false,
+      "group_id": "69e78d4f-db4d-46ca-b6e6-1770662c1019",
+      "height": 500,
+      "hotkey": "shift+2",
+      "id": "4a0cf3b0-9bef-4dcd-9fc2-af3840fa0201",
+      "name": "Youtube",
+      "url": "https://youtube.com",
+      "width": 400,
+      "x": null,
+      "y": null
+    },
+    {
+      "active": true,
+      "favorite": false,
+      "group_id": "69e78d4f-db4d-46ca-b6e6-1770662c1019",
+      "height": 636,
+      "hotkey": "shift+1",
+      "id": "912795af-e004-4834-91e8-e250831afd16",
+      "name": "Google",
+      "url": "https://google.com",
+      "width": 971,
+      "x": null,
+      "y": null
+    },
+    {
+      "active": true,
+      "favorite": true,
+      "group_id": "69e78d4f-db4d-46ca-b6e6-1770662c1019",
+      "height": 500,
+      "hotkey": "shift+3",
+      "id": "0c953f51-2873-4726-a859-2c5dc2f2f739",
+      "name": "Google Tradutor",
+      "url": "https://translate.google.com.br/",
+      "width": 400,
+      "x": null,
+      "y": null
+    }
+  ],
+  "type": "PeekFrameGroup",
+  "version": 1
+}
