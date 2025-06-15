@@ -23,18 +23,8 @@
     }
   ],
   "links": [
-    "https://google.com","https://youtube.com","https://facebook.com","https://x.com","https://instagram.com","https://whatsapp.com","https://amazon.com","https://netflix.com",
-    "https://reddit.com","https://openai.com","https://chat.openai.com","https://linkedin.com","https://tiktok.com","https://wikipedia.org","https://bing.com","https://gmail.com",
-    "https://drive.google.com","https://calendar.google.com","https://docs.google.com","https://mail.google.com","https://zoom.us","https://slack.com","https://notion.so","https://stackoverflow.com",
-    "https://github.com","https://dropbox.com","https://trello.com","https://figma.com","https://canva.com","https://spotify.com","https://deezer.com","https://soundcloud.com",
-    "https://hulu.com","https://primevideo.com","https://disneyplus.com","https://hbomax.com","https://apple.com","https://icloud.com","https://office.com","https://skype.com",
-    "https://yahoo.com","https://duckduckgo.com","https://adobe.com","https://news.google.com","https://weather.com","https://accuweather.com","https://speedtest.net","https://archive.org",
-    "https://quora.com","https://imdb.com","https://rottentomatoes.com","https://theverge.com","https://bbc.com","https://cnn.com","https://nytimes.com","https://medium.com",
-    "https://bandcamp.com","https://vimeo.com","https://dailymotion.com","https://pinterest.com","https://ebay.com","https://aliexpress.com","https://etsy.com","https://mercadolivre.com.br",
-    "https://paypal.com","https://uol.com.br","https://globo.com","https://g1.globo.com","https://terra.com.br","https://coursera.org","https://edx.org","https://udemy.com",
-    "https://khanacademy.org","https://duolingo.com","https://quizlet.com","https://brilliant.org","https://codecademy.com","https://replit.com","https://codesandbox.io","https://jsfiddle.net",
-    "https://codepen.io","https://producthunt.com","https://dribbble.com","https://behance.net","https://unsplash.com","https://pexels.com","https://pixabay.com","https://remove.bg",
-    "https://tinyurl.com","https://bitly.com","https://pastebin.com","https://archive.is","https://waybackmachine.org","https://cloudflare.com","https://vercel.com","https://netlify.com",
-    "https://heroku.com","https://dev.to","https://hashnode.com","https://leetcode.com","https://web.whatsapp.com","https://manus.im","https://deepseek.com","https://www.meta.ai"
+    "https://google.com", "https://youtube.com", "https://facebook.com", "https://x.com", "https://instagram.com", "https://whatsapp.com", "https://amazon.com", "https://netflix.com",
+    "https://mercadolivre.com.br", "https://uol.com.br", "https://g1.globo.com", "https://terra.com.br", "https://spotify.com", "https://deezer.com", "https://tiktok.com",
+    "https://linkedin.com", "https://gmail.com", "https://web.whatsapp.com"
   ]
 }
