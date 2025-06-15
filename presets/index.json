@@ -13,6 +13,13 @@
       "icon": "https://cdn-icons-png.flaticon.com/512/16921/16921758.png",
       "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/ai-tools.json",
       "sites": ["https://chat.openai.com","https://gemini.google.com","https://claude.ai","https://www.perplexity.ai","https://manus.im/","https://lovable.dev/","https://copilot.microsoft.com/","https://deepseek.com/","https://www.elevenlabs.io/","https://www.meta.ai/"]
+    },
+    {
+      "author": "@all4ned",
+      "name": "Streaming Music",
+      "icon": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+      "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/streaming-music.json",
+      "sites": ["https://open.spotify.com/","https://music.youtube.com/","https://soundcloud.com/","https://www.deezer.com/","https://music.apple.com/","https://tidal.com/","https://music.amazon.com/"]
     }
   ],
   "links": [
