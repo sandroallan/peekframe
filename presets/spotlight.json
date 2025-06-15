@@ -1,0 +1,36 @@
+{
+  "featured": [
+    {
+      "title": "Notion",
+      "url": "https://notion.so",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/notion.png"
+    },
+    {
+      "title": "Duolingo",
+      "url": "https://duolingo.com",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/duolingo.png"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/github.png"
+    }
+  ],
+  "recommended": [
+    {
+      "title": "Figma",
+      "url": "https://figma.com",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/figma.png"
+    },
+    {
+      "title": "Vercel",
+      "url": "https://vercel.com",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/vercel.png"
+    },
+    {
+      "title": "Coursera",
+      "url": "https://coursera.org",
+      "thumb": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/thumbs/coursera.png"
+    }
+  ]
+}
