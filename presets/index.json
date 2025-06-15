@@ -3,19 +3,19 @@
     {
       "author": "@all4ned",
       "name": "Google",
-      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/google_cover.png",
+      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/google_cover.png",
       "sites": ["https://google.com","https://youtube.com","https://mail.google.com","https://drive.google.com","https://calendar.google.com","https://photos.google.com","https://maps.google.com","https://translate.google.com","https://meet.google.com"]
     },
     {
       "author": "@all4ned",
       "name": "AI Tools",
-      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/ia_cover.png",
+      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/ia_cover.png",
       "sites": ["https://chat.openai.com","https://gemini.google.com","https://claude.ai","https://www.perplexity.ai","https://manus.im/","https://lovable.dev/","https://copilot.microsoft.com/","https://deepseek.com/","https://www.elevenlabs.io/","https://www.meta.ai/"]
     },
     {
       "author": "@all4ned",
       "name": "Streaming Music",
-      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/music_cover.png",
+      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/music_cover.png",
       "sites": ["https://open.spotify.com/","https://music.youtube.com/","https://soundcloud.com/","https://www.deezer.com/","https://music.apple.com/","https://tidal.com/","https://music.amazon.com/"]
     }
   ],
