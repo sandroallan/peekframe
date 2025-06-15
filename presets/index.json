@@ -17,7 +17,7 @@
     {
       "author": "@all4ned",
       "name": "Streaming Music",
-      "icon": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/assets/music_cover.png",
       "url": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/streaming-music.json",
       "sites": ["https://open.spotify.com/","https://music.youtube.com/","https://soundcloud.com/","https://www.deezer.com/","https://music.apple.com/","https://tidal.com/","https://music.amazon.com/"]
     }
