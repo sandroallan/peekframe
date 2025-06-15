@@ -48,19 +48,22 @@
       ]
     },
     {
-    "author": "@all4ned",
-    "name": "Translators",
-    "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/translate_cover.png",
-    "sites": [
-      "https://translate.google.com",
-      "https://www.deepl.com/translator",
-      "https://www.bing.com/translator",
-      "https://papago.naver.com/",
-      "https://www.reverso.net/text_translation.aspx",
-      "https://www.linguee.com/",
-      "https://translate.yandex.com/"
-    ]
-  }
+      "author": "@all4ned",
+      "name": "Translators",
+      "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/translate_cover.png",
+      "sites": [
+        "https://translate.google.com",
+        "https://www.deepl.com/translator",
+        "https://www.bing.com/translator",
+        "https://papago.naver.com/",
+        "https://www.reverso.net/text_translation.aspx",
+        "https://www.wordreference.com/",
+        "https://www.linguee.com/",
+        "https://www.systran.net/",
+        "https://translate.yandex.com/",
+        "https://lingva.ml/"
+      ]
+    }
   ],
   "recommended": [
     {
@@ -69,8 +72,28 @@
     }
   ],
   "links": [
-    "https://google.com", "https://youtube.com", "https://facebook.com", "https://x.com", "https://instagram.com", "https://amazon.com", "https://netflix.com", "https://mercadolivre.com.br",
-    "https://uol.com.br", "https://g1.globo.com", "https://terra.com.br", "https://deezer.com", "https://tiktok.com", "https://linkedin.com", "https://gmail.com",
-    "https://web.whatsapp.com", "https://notion.so", "https://todoist.com", "https://reddit.com", "https://medium.com", "https://udemy.com", "https://discord.com", "https://soundcloud.com"
+    "https://google.com",
+    "https://youtube.com",
+    "https://facebook.com",
+    "https://x.com",
+    "https://instagram.com",
+    "https://amazon.com",
+    "https://netflix.com",
+    "https://mercadolivre.com.br",
+    "https://uol.com.br",
+    "https://g1.globo.com",
+    "https://terra.com.br",
+    "https://deezer.com",
+    "https://tiktok.com",
+    "https://linkedin.com",
+    "https://gmail.com",
+    "https://web.whatsapp.com",
+    "https://notion.so",
+    "https://todoist.com",
+    "https://reddit.com",
+    "https://medium.com",
+    "https://udemy.com",
+    "https://discord.com",
+    "https://soundcloud.com"
   ]
 }
