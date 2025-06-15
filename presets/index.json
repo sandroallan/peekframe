@@ -46,7 +46,24 @@
         "https://tidal.com/",
         "https://music.amazon.com/"
       ]
-    }
+    },
+    {
+    "author": "@all4ned",
+    "name": "Translators",
+    "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/translate_cover.png",
+    "sites": [
+      "https://translate.google.com",
+      "https://www.deepl.com/translator",
+      "https://www.bing.com/translator",
+      "https://papago.naver.com/",
+      "https://www.reverso.net/text_translation.aspx",
+      "https://www.wordreference.com/",
+      "https://www.linguee.com/",
+      "https://www.systran.net/",
+      "https://translate.yandex.com/",
+      "https://lingva.ml/"
+    ]
+  }
   ],
   "recommended": [
     {
