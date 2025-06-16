@@ -87,7 +87,6 @@
     { "url": "https://deezer.com", "tags": ["music", "streaming", "entertainment"] },
     { "url": "https://tiktok.com", "tags": ["social media", "video", "entertainment"] },
     { "url": "https://linkedin.com", "tags": ["professional", "networking", "career"] },
-    { "url": "https://gmail.com", "tags": ["email", "communication", "productivity"] },
     { "url": "https://web.whatsapp.com", "tags": ["communication", "messaging", "productivity"] },
     { "url": "https://notion.so", "tags": ["productivity", "tools", "organization"] },
     { "url": "https://todoist.com", "tags": ["productivity", "tools", "task management"] },
