@@ -26,7 +26,7 @@
       "name": "Streaming de Vídeo",
       "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/streaming_cover.png",
       "tags": ["entretenimento", "streaming", "vídeo", "séries", "filmes"],
-      "sites": ["https://netflix.com", "https://amazonprimevideo.com", "https://disneyplus.com", "https://hbo.com", "https://paramountplus.com", "https://appletv.com", "https://hulu.com", "https://peacocktv.com", "https://globoplay.globo.com", "https://tubi.tv", "https://pluto.tv", "https://roku.com", "https://vudu.com", "https://fubo.tv"]
+      "sites": ["https://netflix.com", "https://primevideo.com", "https://disneyplus.com", "https://hbo.com", "https://paramountplus.com", "https://appletv.com", "https://hulu.com", "https://peacocktv.com", "https://globoplay.globo.com", "https://tubi.tv", "https://pluto.tv", "https://roku.com", "https://vudu.com", "https://fubo.tv"]
     },
     {
       "author": "@all4ned",
