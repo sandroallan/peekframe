@@ -67,7 +67,10 @@
     }
   ],
   "recommended": [
-
+    {
+      "title": "Astera Studio",
+      "url": "https://asterastudio.com"
+    }
   ],
   "links": [
     { "url": "https://google.com", "tags": ["search", "utility"] },
