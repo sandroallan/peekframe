@@ -80,6 +80,7 @@
     { "url": "https://instagram.com", "tags": ["social", "photos"] },
     { "url": "https://amazon.com", "tags": ["ecommerce"] },
     { "url": "https://netflix.com", "tags": ["entertainment", "streaming"] },
+    { "url": "https://primevideo.com", "tags": ["entertainment", "streaming"] },
     { "url": "https://mercadolivre.com.br", "tags": ["ecommerce", "brazil"] },
     { "url": "https://uol.com.br", "tags": ["news", "brazil"] },
     { "url": "https://g1.globo.com", "tags": ["news", "brazil"] },
