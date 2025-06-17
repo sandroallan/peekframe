@@ -37,14 +37,14 @@
     },
     {
       "author": "@all4ned",
-      "name": "Design & Creativity",
+      "name": "Creative Courses",
       "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/design_cover.png",
       "tags": ["design", "art", "education", "learning"],
       "sites": ["https://www.domestika.org", "https://www.crehana.com", "https://www.unhideschool.com", "https://motiondesign.school", "https://www.schoolofmotion.com", "https://www.cgmasteracademy.com", "https://www.thegnomonworkshop.com", "https://www.skillshare.com", "https://www.artstation.com/learning", "https://coloso.us"]
     },
     {
       "author": "@all4ned",
-      "name": "Technology & Programming",
+      "name": "Online Learning",
       "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/code_cover.png",
       "tags": ["code", "technology", "education", "learning"],
       "sites": ["https://www.udemy.com", "https://www.coursera.org", "https://www.edx.org", "https://www.pluralsight.com", "https://www.codecademy.com", "https://www.freecodecamp.org", "https://www.linkedin.com/learning", "https://teamtreehouse.com", "https://www.khanacademy.org"]
