@@ -23,10 +23,10 @@
     },
     {
       "author": "@all4ned",
-      "name": "Streaming",
+      "name": "Streaming de Vídeo",
       "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/streaming_cover.png",
-      "tags": ["entertainment", "streaming", "video"],
-      "sites": ["https://youtube.com","https://open.spotify.com/","https://music.youtube.com/","https://soundcloud.com/","https://www.deezer.com/","https://music.apple.com/","https://tidal.com/","https://music.amazon.com/","https://netflix.com","https://twitch.tv","https://disneyplus.com","https://hulu.com","https://amazonprimevideo.com","https://hbo.com","https://peacocktv.com"]
+      "tags": ["entretenimento", "streaming", "vídeo", "séries", "filmes"],
+      "sites": ["https://netflix.com", "https://amazonprimevideo.com", "https://disneyplus.com", "https://hbo.com", "https://paramountplus.com", "https://appletv.com", "https://hulu.com", "https://peacocktv.com", "https://globoplay.globo.com", "https://tubi.tv", "https://pluto.tv", "https://roku.com", "https://vudu.com", "https://fubo.tv"]
     },
     {
       "author": "@all4ned",
