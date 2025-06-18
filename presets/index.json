@@ -16,7 +16,7 @@
     },
     {
       "author": "@all4ned",
-      "name": "Streaming Music",
+      "name": "Music Streaming ",
       "icon": "https://raw.githubusercontent.com/sandroallan/peekframe/main/presets/thumbnails/music_cover.png",
       "tags": ["music", "streaming", "entertainment"],
       "sites": ["https://open.spotify.com/", "https://music.youtube.com/", "https://soundcloud.com/", "https://www.deezer.com/", "https://music.apple.com/", "https://tidal.com/", "https://music.amazon.com/"]
