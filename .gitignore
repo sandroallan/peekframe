@@ -4,3 +4,5 @@ resources/
 static/
 templates/
 venv/
+app.dist/
+app.build/
