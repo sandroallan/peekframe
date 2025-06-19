@@ -89,16 +89,6 @@
 2. Baixe a versão mais recente: **peek_frame_setup.exe**.
 3. Execute o instalador e siga as instruções.
 
-## 🤝 Como Contribuir
-
-Contribuir torna a comunidade open source um lugar incrível para aprender, colaborar e inovar. Toda contribuição é muito bem-vinda!
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature: `git checkout -b feature/NomeDaFeature`.
-3. Faça commit das suas alterações: `git commit -m "Adiciona NomeDaFeature"`.
-4. Envie para a branch: `git push origin feature/NomeDaFeature`.
-5. Abra um Pull Request para revisão.
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).  
