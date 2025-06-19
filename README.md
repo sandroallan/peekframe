@@ -54,7 +54,7 @@
 <p align="center">
   <b>Available in 22 languages</b>
 </p>
-<br><br>
+
 ## 📖 About the Project
 
 **Peek Frame** is a Windows application designed to manage website shortcuts by opening them as floating webview windows. It allows fast and organized access to your favorite websites and web services directly from your desktop.
