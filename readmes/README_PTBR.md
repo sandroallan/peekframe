@@ -58,11 +58,17 @@
   <b>Disponível em 22 idiomas</b>
 </p>
 
+<br><br>
+
 ## 📖 Sobre o Projeto
 
 **Peek Frame** é uma aplicação para Windows desenvolvida para gerenciar atalhos de sites, abrindo-os em janelas flutuantes (webviews). Permite acesso rápido e organizado aos seus sites e serviços favoritos diretamente da área de trabalho.
 
 Oferece recursos avançados de organização, como pastas e filtros, além de um sistema de pacotes que permite à comunidade criar e compartilhar coleções de sites, incluindo pacotes dedicados a ferramentas de IA.
+
+<p align="center">
+  <img src="../assets/preview2.png" alt="Preview 2" width="720"/>
+</p>
 
 ## ✨ Principais Funcionalidades
 
@@ -72,12 +78,6 @@ Oferece recursos avançados de organização, como pastas e filtros, além de um
 - 🌙 **Temas:** Personalize a interface com várias opções de temas.
 - 🖥️ **Inicialização na Bandeja:** Inicia automaticamente com o Windows, minimizado na bandeja do sistema.
 - ⚙️ **Altamente Configurável:** Ajuste atalhos, comportamento e aparência para se adequar ao seu fluxo de trabalho.
-
-<br>
-
-<p align="center">
-  <img src="../assets/preview2.png" alt="Preview 2" width="720"/>
-</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
