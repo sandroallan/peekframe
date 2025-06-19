@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_EN.md" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/sandroallan/peekframe/blob/main/README.md" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Idioma-English-ddd?style=for-the-badge&logo=obsidian" />
   </a>
   
