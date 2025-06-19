@@ -62,9 +62,7 @@
 
 ## 📖 About the Project
 
-**Peek Frame** is a Windows application designed to manage website shortcuts by opening them as floating webview windows. It allows fast and organized access to your favorite websites and web services directly from your desktop.
-
-It offers advanced organization features like folders and filters, along with a package system that enables the community to create and share site collections, including packs dedicated to AI tools.
+**Peek Frame** is a Windows software that lets you manage website shortcuts by opening them in floating webview windows without relying on a browser. Keep your favorite websites and services always organized and just one keystroke away.
 
 <p align="center">
   <img src="https://github.com/sandroallan/peekframe/blob/main/assets/preview2.png?raw=true" alt="Preview 2" width="720"/>
