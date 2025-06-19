@@ -1,5 +1,7 @@
 ![Preview](../assets/preview1.png)
+
 <br><br>
+
 <p align="center">
   <img src="../assets/icon.png" alt="Peek Frame Icon" width="64"/>
 </p>
@@ -15,11 +17,11 @@
 <p align="center">
 
   <a href="javascript:void(0)" style="cursor: default;">
-    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Idioma-English-7a27f4?style=for-the-badge&logo=obsidian" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Idioma-Português-ddd?style=for-the-badge&logo=obsidian" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
@@ -51,6 +53,7 @@
   <img src="../assets/flags/turkey.png" width="24"/>
   <img src="../assets/flags/vietnam.png" width="24"/>
 </p>
+
 <p align="center">
   <b>Disponível em 22 idiomas</b>
 </p>
@@ -69,6 +72,12 @@ Oferece recursos avançados de organização, como pastas e filtros, além de um
 - 🌙 **Temas:** Personalize a interface com várias opções de temas.
 - 🖥️ **Inicialização na Bandeja:** Inicia automaticamente com o Windows, minimizado na bandeja do sistema.
 - ⚙️ **Altamente Configurável:** Ajuste atalhos, comportamento e aparência para se adequar ao seu fluxo de trabalho.
+
+<br>
+
+<p align="center">
+  <img src="../assets/preview2.png" alt="Preview 2" width="720"/>
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -89,9 +98,9 @@ Oferece recursos avançados de organização, como pastas e filtros, além de um
 Contribuições tornam a comunidade open source um lugar incrível para aprender, colaborar e inovar. Toda contribuição é muito bem-vinda.
 
 1. Faça um fork do projeto.
-2. Crie uma branch para sua feature: `git checkout -b feature/AmazingFeature`.
-3. Faça commit das suas alterações: `git commit -m "Add some AmazingFeature"`.
-4. Envie para a branch: `git push origin feature/AmazingFeature`.
+2. Crie uma branch para sua feature: `git checkout -b feature/NomeDaFeature`.
+3. Faça commit das suas alterações: `git commit -m "Adiciona NomeDaFeature"`.
+4. Envie para a branch: `git push origin feature/NomeDaFeature`.
 5. Abra um Pull Request para revisão.
 
 ## 📄 Licença
