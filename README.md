@@ -1,6 +1,97 @@
+![Preview](assets/preview1.png)
+<br><br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandroallan/peekframe/main/assets/icon.png" width="100" alt="PeekFrame Icon">
+  <img src="assets/icon.png" alt="Peek Frame Icon" width="64"/>
 </p>
 
-# peekframe
-Manage and access your websites with shortcuts simply and quickly.
+<h1 align="center" style="color: #9332f4; border-bottom: none; box-shadow: none; margin-bottom: 0;">
+  Peek Frame
+</h1>
+
+<p align="center" style="margin-top: 0;">
+  <i>Manage and access your websites with shortcuts simply and quickly!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sandroallan/peekframe/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge" alt="English" />
+  </a>
+  <a href="https://github.com/sandroallan/peekframe/blob/main/README_PTBR.md">
+    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge" alt="Português" />
+  </a>
+  <a href="https://github.com/sandroallan/peekframe/releases">
+    <img src="https://img.shields.io/badge/Download-Latest-444?style=for-the-badge&logo=github" alt="Download" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/flags/united-states.png" width="24"/>
+  <img src="assets/flags/brazil-.png" width="24"/>
+  <img src="assets/flags/germany.png" width="24"/>
+  <img src="assets/flags/russia.png" width="24"/>
+  <img src="assets/flags/spain.png" width="24"/>
+  <img src="assets/flags/china.png" width="24"/>
+  <img src="assets/flags/japan.png" width="24"/>
+  <img src="assets/flags/france.png" width="24"/>
+  <img src="assets/flags/south-korea.png" width="24"/>
+  <img src="assets/flags/ukraine.png" width="24"/>
+  <img src="assets/flags/india.png" width="24"/>
+  <img src="assets/flags/portugal.png" width="24"/>
+  <img src="assets/flags/indonesia.png" width="24"/>
+  <img src="assets/flags/iran.png" width="24"/>
+  <img src="assets/flags/israel.png" width="24"/>
+  <img src="assets/flags/italy.png" width="24"/>
+  <img src="assets/flags/netherlands.png" width="24"/>
+  <img src="assets/flags/poland.png" width="24"/>
+  <img src="assets/flags/saudi-arabia.png" width="24"/>
+  <img src="assets/flags/thailand.png" width="24"/>
+  <img src="assets/flags/turkey.png" width="24"/>
+  <img src="assets/flags/vietnam.png" width="24"/>
+</p>
+<p align="center">
+  <b>Available in 22 languages</b>
+</p>
+
+## 📖 About the Project
+
+**Peek Frame** is a Windows application designed to manage website shortcuts by opening them as floating webview windows. It allows fast and organized access to your favorite websites and web services directly from your desktop.
+
+It offers advanced organization features like folders and filters, along with a package system that enables the community to create and share site collections, including packs dedicated to AI tools.
+
+## ✨ Main Features
+
+- 🚀 **Floating Shortcuts:** Open any website as a floating, resizable window.
+- 📂 **Advanced Organization:** Manage your shortcuts with folders and smart filters.
+- 📦 **Community Packages:** Install collections of websites shared by the community.
+- 🌙 **Themes:** Customize the interface with multiple theme options.
+- 🖥️ **Tray Startup:** Automatically starts with Windows, minimized to the system tray.
+- ⚙️ **Highly Configurable:** Adjust shortcuts, behavior, and appearance to suit your workflow.
+
+## 🛠️ Technologies Used
+
+- 🐍 **Python** – Main programming language.
+- ⚗️ **Flask** – Lightweight web framework for the backend.
+- 🖼️ **Jinja2** – Template engine to generate dynamic HTML.
+- 💻 **HTML, CSS, and JavaScript** – User interface technologies.
+- 🪟 **pywebview** – Displays the web interface as a native desktop app.
+
+## 📥 Installation
+
+1. Go to the [Releases](https://github.com/sandroallan/peekframe/releases) page of this repository.
+2. Download the latest version: **peek_frame_setup.exe**.
+3. Run the installer and follow the instructions.
+
+## 🤝 How to Contribute
+
+Contributions make the open-source community an amazing place to learn, collaborate, and innovate. Any contributions you make are greatly appreciated.
+
+1. Fork the project.
+2. Create a branch for your feature: `git checkout -b feature/AmazingFeature`.
+3. Commit your changes: `git commit -m "Add some AmazingFeature"`.
+4. Push to the branch: `git push origin feature/AmazingFeature`.
+5. Open a Pull Request for review.
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+See the `LICENSE` file for details.
