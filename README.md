@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="assets/flags/united-states.png" width="24"/>
-  <img src="assets/flags/brazil-.png" width="24"/>
+  <img src="assets/flags/brazil.png" width="24"/>
   <img src="assets/flags/germany.png" width="24"/>
   <img src="assets/flags/russia.png" width="24"/>
   <img src="assets/flags/spain.png" width="24"/>
