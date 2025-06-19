@@ -16,7 +16,7 @@
   <a href="https://github.com/sandroallan/peekframe/blob/main/README.md">
     <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge" alt="English" />
   </a>
-  <a href="https://github.com/sandroallan/peekframe/blob/main/README_PTBR.md">
+  <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md">
     <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge" alt="Português" />
   </a>
   <a href="https://github.com/sandroallan/peekframe/releases">
