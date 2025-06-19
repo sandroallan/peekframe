@@ -82,7 +82,7 @@
 - 🖼️ **Jinja2** – Template engine to generate dynamic HTML.
 - 💻 **HTML, CSS, and JavaScript** – User interface technologies.
 - 🪟 **pywebview** – Displays the web interface as a native desktop app.
-- 
+  
 ## 📥 Installation
 
 1. Go to the [Releases](https://github.com/sandroallan/peekframe/releases) page of this repository.
