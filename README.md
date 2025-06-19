@@ -1,7 +1,3 @@
-![Preview](assets/preview1.png)
-
-<br><br>
-
 <p align="center">
   <img src="assets/icon.png" alt="Peek Frame Icon" width="64"/>
 </p>
@@ -59,6 +55,8 @@
 </p>
 
 <br><br>
+
+![Preview](assets/preview1.png)
 
 ## 📖 About the Project
 
