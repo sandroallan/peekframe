@@ -1,7 +1,3 @@
-![Preview](../assets/preview1.png)
-
-<br><br>
-
 <p align="center">
   <img src="../assets/icon.png" alt="Peek Frame Icon" width="64"/>
 </p>
@@ -25,13 +21,13 @@
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Download-Latest-444?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Download-Ultima%20Versao-444?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
   <img src="../assets/flags/united-states.png" width="24"/>
-  <img src="../assets/flags/brazil-.png" width="24"/>
+  <img src="../assets/flags/brazil.png" width="24"/>
   <img src="../assets/flags/germany.png" width="24"/>
   <img src="../assets/flags/russia.png" width="24"/>
   <img src="../assets/flags/spain.png" width="24"/>
@@ -60,20 +56,22 @@
 
 <br><br>
 
+![Preview](../assets/preview1.png)
+
 ## 📖 Sobre o Projeto
 
-**Peek Frame** é um software para Windows que permite gerenciar atalhos de sites, abrindo-os em janelas flutuantes (webviews) sem depender do navegador. Tenha seus sites e serviços favoritos sempre organizados e acessíveis a uma tecla de distância.
+**Peek Frame** é um software para Windows que permite gerenciar atalhos de sites, abrindo-os em janelas flutuantes (webview) sem depender do navegador. Tenha seus sites e serviços favoritos sempre organizados e acessíveis a um atalho de teclado.
 
 <p align="center">
-  <img src="../assets/preview2.png" alt="Preview 2" width="720"/>
+  <img src="https://github.com/sandroallan/peekframe/blob/main/assets/preview2.png?raw=true" alt="Preview 2" width="720"/>
 </p>
 
 ## ✨ Principais Funcionalidades
 
-- 🚀 **Atalhos Flutuantes:** Abra qualquer site em uma janela flutuante e redimensionável.
+- 🚀 **Atalhos Flutuantes:** Abra qualquer site como uma janela flutuante e redimensionável.
 - 📂 **Organização Avançada:** Gerencie seus atalhos com pastas e filtros inteligentes.
 - 📦 **Pacotes da Comunidade:** Instale coleções de sites compartilhadas pela comunidade.
-- 🌙 **Temas:** Personalize a interface com várias opções de temas.
+- 🌙 **Temas:** Personalize a interface com diversas opções de temas.
 - 🖥️ **Inicialização na Bandeja:** Inicia automaticamente com o Windows, minimizado na bandeja do sistema.
 - ⚙️ **Altamente Configurável:** Ajuste atalhos, comportamento e aparência para se adequar ao seu fluxo de trabalho.
 
@@ -93,7 +91,7 @@
 
 ## 🤝 Como Contribuir
 
-Contribuições tornam a comunidade open source um lugar incrível para aprender, colaborar e inovar. Toda contribuição é muito bem-vinda.
+Contribuir torna a comunidade open source um lugar incrível para aprender, colaborar e inovar. Toda contribuição é muito bem-vinda!
 
 1. Faça um fork do projeto.
 2. Crie uma branch para sua feature: `git checkout -b feature/NomeDaFeature`.
@@ -104,4 +102,4 @@ Contribuições tornam a comunidade open source um lugar incrível para aprender
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).  
-Veja o arquivo `LICENSE` para mais detalhes.
+Consulte o arquivo LICENSE para mais detalhes.
