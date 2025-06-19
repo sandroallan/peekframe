@@ -13,14 +13,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sandroallan/peekframe/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge" alt="English" />
+
+  <a href="javascript:void(0)" style="cursor: default;">
+    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge&logo=obsidian" />
   </a>
-  <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md">
-    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge" alt="Português" />
+
+  <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge&logo=obsidian" />
   </a>
-  <a href="https://github.com/sandroallan/peekframe/releases">
-    <img src="https://img.shields.io/badge/Download-Latest-444?style=for-the-badge&logo=github" alt="Download" />
+
+  <a href="https://github.com/sandroallan/peekframe/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download-Latest-444?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -51,7 +54,7 @@
 <p align="center">
   <b>Available in 22 languages</b>
 </p>
-
+<br><br>
 ## 📖 About the Project
 
 **Peek Frame** is a Windows application designed to manage website shortcuts by opening them as floating webview windows. It allows fast and organized access to your favorite websites and web services directly from your desktop.
