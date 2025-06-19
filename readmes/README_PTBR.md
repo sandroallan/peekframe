@@ -93,5 +93,5 @@ Contribuições tornam a comunidade open source um lugar incrível para aprender
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).  
+Este projeto está licenciado sob a [Licença GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).  
 Veja o arquivo `LICENSE` para mais detalhes.
