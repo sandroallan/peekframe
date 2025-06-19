@@ -93,5 +93,5 @@ Contributions make the open-source community an amazing place to learn, collabor
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
 See the `LICENSE` file for details.
