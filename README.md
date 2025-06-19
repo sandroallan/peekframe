@@ -89,16 +89,6 @@
 2. Download the latest version: **peek_frame_setup.exe**.
 3. Run the installer and follow the instructions.
 
-## 🤝 How to Contribute
-
-Contributions make the open-source community an amazing place to learn, collaborate, and innovate. Any contributions you make are greatly appreciated.
-
-1. Fork the project.
-2. Create a branch for your feature: `git checkout -b feature/AmazingFeature`.
-3. Commit your changes: `git commit -m "Add some AmazingFeature"`.
-4. Push to the branch: `git push origin feature/AmazingFeature`.
-5. Open a Pull Request for review.
-
 ## 📄 License
 
 This project is licensed under the [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
