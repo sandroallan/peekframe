@@ -1,3 +1,4 @@
+__pycache__/
 app.py
 app.exe
 peekframe.exe
@@ -8,3 +9,6 @@ templates/
 venv/
 app.dist/
 app.build/
+core.py
+server.py
+main.py
