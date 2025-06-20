@@ -13,11 +13,11 @@
 <p align="center">
 
   <a href="javascript:void(0)" style="cursor: default;">
-    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
@@ -63,8 +63,10 @@
 **Peek Frame** is a Windows software that lets you manage website shortcuts by opening them in floating webview windows without relying on a browser. Keep your favorite websites and services always organized and just one keystroke away.
 
 <p align="center">
-  <img src="https://github.com/sandroallan/peekframe/blob/main/assets/preview2.png?raw=true" alt="Preview 2" width="720"/>
+  <img src="https://github.com/sandroallan/peekframe/blob/main/assets/preview2.png?raw=true" alt="Preview 2" width="480"/>
+  <br><em>Example of a floating window with website shortcut</em>
 </p>
+
 
 ## ✨ Main Features
 
@@ -77,11 +79,11 @@
 
 ## 🛠️ Technologies Used
 
-- 🐍 **Python** – Main programming language.
-- ⚗️ **Flask** – Lightweight web framework for the backend.
-- 🖼️ **Jinja2** – Template engine to generate dynamic HTML.
-- 💻 **HTML, CSS, and JavaScript** – User interface technologies.
-- 🪟 **pywebview** – Displays the web interface as a native desktop app.
+- 🐍 **Python**
+- ⚗️ **Flask**
+- 🖼️ **Jinja2**
+- 💻 **HTML, CSS, and JavaScript**
+- 🪟 **pywebview**
   
 ## 📥 Installation
 
@@ -89,7 +91,29 @@
 2. Download the latest version: **peek_frame_setup.exe**.
 3. Run the installer and follow the instructions.
 
-## 📄 License
+## 🤝 Contributing
 
-This project is licensed under the [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
-See the `LICENSE` file for details.
+Contributions are welcome and greatly appreciated!
+
+If you have ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request. Whether it's code, design, documentation, or simply feedback, every contribution makes a difference!
+
+### 🛠️ How to contribute:
+- ⭐ Star this repository to support the project.
+- 🔍 Check the [issues](https://github.com/sandroallan/peekframe/issues) and see if there's something you can help with.
+- 🍴 Fork the repository.
+- 🔧 Create a new branch (`git checkout -b feature/YourFeature`).
+- 💾 Commit your changes (`git commit -m 'Add YourFeature'`).
+- 🚀 Push to your branch (`git push origin feature/YourFeature`).
+- 📥 Open a pull request describing your changes.
+
+### 💬 Need help or have suggestions?
+Open an [issue](https://github.com/sandroallan/peekframe/issues) or send an email to contato@sandroallan.com - feedback and ideas are always welcome!
+<br><br>
+<p align="center">
+  <b>🌟 Your contribution makes this project better!</b>
+</p>
+
+<p align="center">
+  <b>© PeekFrame 2025</b>
+</p>
+
