@@ -13,11 +13,11 @@
 <p align="center">
 
   <a href="javascript:void(0)" style="cursor: default;">
-    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Language-English-7a27f4?style=for-the-badge" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/blob/main/readmes/README_PTBR.md" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge&logo=obsidian" />
+    <img src="https://img.shields.io/badge/Language-Português-ddd?style=for-the-badge" />
   </a>
 
   <a href="https://github.com/sandroallan/peekframe/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">
