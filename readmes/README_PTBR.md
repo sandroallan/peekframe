@@ -58,15 +58,17 @@
 
 ![Preview](../assets/preview1.png)
 
+<br><br>
+
 ## 📖 Sobre o Projeto
 
 **Peek Frame** é um software para Windows que permite gerenciar atalhos de sites abrindo-os em janelas flutuantes com webview, sem depender do navegador. Mantenha seus sites e serviços favoritos sempre organizados e a um toque de tecla de distância.
-
+<br><br>
 <p align="center">
   <img src="https://github.com/sandroallan/peekframe/blob/main/assets/preview2.png?raw=true" alt="Preview 2" width="480"/>
   <br><em>Exemplo de janela flutuante com atalho para site</em>
 </p>
-
+<br><br>
 ## ✨ Principais Funcionalidades
 
 - 🚀 **Atalhos Flutuantes:** Abra qualquer site em uma janela flutuante e redimensionável.
