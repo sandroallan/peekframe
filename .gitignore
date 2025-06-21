@@ -1,14 +1,1 @@
-__pycache__/
-app.py
-app.exe
-peekframe.exe
-.dev_tools/
-resources/
-static/
-templates/
-venv/
-app.dist/
-app.build/
-core.py
-server.py
-main.py
+.dev/
