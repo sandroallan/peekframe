@@ -69,6 +69,7 @@
   <br><em>Exemplo de janela flutuante com atalho para site</em>
 </p>
 <br><br>
+
 ## ✨ Principais Funcionalidades
 
 - 🚀 **Atalhos Flutuantes:** Abra qualquer site em uma janela flutuante e redimensionável.
