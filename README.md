@@ -69,6 +69,7 @@
   <br><em>Example of a floating window with website shortcut</em>
 </p>
 <br><br>
+
 ## ✨ Main Features
 
 - 🚀 **Floating Shortcuts:** Open any website as a floating, resizable window.
